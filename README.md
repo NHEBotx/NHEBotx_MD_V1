@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./src/media/Morely.jpg" width="100%" height="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./NheBotxMedia/tmenu.jpg" width="100%" height="100%" style="margin-left: auto;margin-right: auto;display: block;">
 
   
 </p>
