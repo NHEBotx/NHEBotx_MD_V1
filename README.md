@@ -22,13 +22,14 @@
 href="https://bicolink.com/qTiyFa5p"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="BAILEYS" width="150"></a>
 
 **`🇲🇨DOWNLOAD MODULE DI ATAS`**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 *- SETELAH DOWNLOAD MODULE:*
 > SALIN / TEMPEL BAILEYS.ZIP DI FOLDER *`NHEBotx`*
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="80%">
 > JANGAN DI BUKA ZIPNYA, DAN BIARKAN TETAP MENJADI ZIP, DIDALAM FOLDER
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="80%">
 > LALU GUNAKAN COMMAND PERINTAH DIBAWAH 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="80%">
 ### `—◉ 👾 ACTIV TERMUX 👾` 
 *- USED ON TERMUX :*
 ```bash
