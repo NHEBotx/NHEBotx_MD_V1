@@ -3,7 +3,7 @@
 
   
 </p>
-<h1 align="center">NHEBotx </h1>
+<h1 align="center">👑 NHEBotx 👑</h1>
 
 </p>
 <p align="center">
@@ -24,7 +24,9 @@ href="https://bicolink.com/qTiyFa5p"><img src="https://img.shields.io/badge/CLIC
 **`🇲🇨DOWNLOAD MODULE DI ATAS`**
 *- SETELAH DOWNLOAD MODULE:*
 > SALIN / TEMPEL BAILEYS.ZIP DI FOLDER *`NHEBotx`*
+
 > JANGAN DI BUKA ZIPNYA, DAN BIARKAN TETAP MENJADI ZIP, DIDALAM FOLDER
+
 > LALU GUNAKAN COMMAND PERINTAH DIBAWAH 
 
 ### `—◉ 👾 ACTIV TERMUX 👾` 
@@ -116,12 +118,12 @@ npm start
 ... and more! Menfess, fun menu ready
 
 ### `—◉ [🙏🏻Thanks to]`
-- `[Yurin's](https://github.com/sychyy)`
+-- [Yurin's](https://github.com/sychyy) --
 </p>
 <p align="center">
 <a href="https://github.com/sychyy"><img title="BASEORI" src="https://img.shields.io/badge/BASE ORI-YURIN'S-green.svg?style=for-the-badge&logo=github"></a>
 
-- `[WhiskeySockets](https://github.com/WhiskeySockets)`
+-- [WhiskeySockets](https://github.com/WhiskeySockets) --
 </p>
 <p align="center">
 <a href="https://github.com/WhiskeySockets"><img title="Module" src="https://img.shields.io/badge/Develop-WhiskeySockets-green.svg?style=for-the-badge&logo=github"></a>
