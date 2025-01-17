@@ -20,6 +20,29 @@
 
 <a href="https://github.com/NHEBotx/Morely-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="FORK MORELY" width="150"></a>
 
+### `—◉ 👾 ACTIV TERMUX 👾` 
+*- USED ON TERMUX :*
+```bash
+pkg update -y
+pkg upgrade -y
+pkg install yarn 
+pkg install unzip -y
+pkg instl zip -y
+pkg install nodejs -y
+pkg install bash -y
+pkg install git -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
+pkg install mc
+cd /sdcard/NHEBotx
+cp -r NHEBotx $HOME
+cd
+cd NHEBotx
+npm i
+unzip baileys.zip -d node_modules/@adiwajshing/
+npm start
+```
+
 ### `—◉ [🔻Features🔻]`
 *THERE ARE STILL MORE MENU THAN LISTED BELOW*
 
@@ -95,33 +118,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/WhiskeySockets"><img title="Develop" src="https://img.shields.io/badge/Develop-WhiskeySockets-green.svg?style=for-the-badge&logo=github"></a>
-
-### `—◉ 👾 ACTIV TERMUX 👾` 
-*- USED ON TERMUX :*
-```bash
-🇲🇨BACA DENGAN TELITI!
-🇺🇸READ CAREFULLY!
-$ pkg update && pkg upgrade 
-$ pkg install git
-$ pkg install bash
-$ pkg install nodejs
-$ pkg install ffmpeg
-$ pkg install imagemagick
-$ pkg install libvips
-$ pkg install mc
-$ git clone https://github.com/NHEBotx/Morely-MD.git
-$ cd Morely-MD
-$ pkg install yarn
-$ yarn
-$ pkg install unzip
-$ unzip node_modules.zip
-🇺🇸If there is a red (figlet) later, it will produce a new termux input commands menu. Please type (all)
-🇲🇨Jika nanti muncul figlet merah, dan memunculkan input commands termux baru, silahkan ketikan perintah 'all' lalu klik TOMBOL ENTER
-$ npm install --cpu=wasm32 sharp
-$ npm start
-```
-### `—◉ 🇲🇨Agar Bot Terus Berjalan Di Termux`
-### `—◉ 🇺🇸To Keep Bot Running On Termux`
+### 
 ```bash
 $ cd Morely-MD
 $ npm install pm2 -g
