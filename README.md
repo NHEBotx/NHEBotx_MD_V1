@@ -15,7 +15,7 @@
 [![AUTHOR](https://img.shields.io/badge/Author%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288989971490)
 
 ### **`—◉ 👇FORK REPO & CLIK STAR`**
-<a href="https://github.com/NHEBotx/Morely-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="FORK NHEBotx" width="150"></a>
+<a href="https://github.com/NHEBotx/NHEBotx_MD_V1/forks"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="FORK NHEBotx" width="150"></a>
 
 ### **`—◉ 📌MODULE BAILEYSNYA`**
 <a
