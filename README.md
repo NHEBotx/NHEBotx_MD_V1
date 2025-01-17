@@ -17,8 +17,11 @@
 ### **👇FORK REPO & CLIK STAR**
 
   
-
 <a href="https://github.com/NHEBotx/Morely-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-blue" alt="FORK MORELY" width="150"></a>
+
+### **📌MODULE BAILEYSNYA**
+
+href="https://bicolink.com/qTiyFa5p"><img src="https://img.shields.io/badge/CLICK%20HERE-yellow" alt="BAILEYS" width="150"></a>
 
 ### `—◉ 👾 ACTIV TERMUX 👾` 
 *- USED ON TERMUX :*
